@@ -1,0 +1,126 @@
+Build ready to start ▶️
+>> Cloning github.com/lyfe00011/whatsapp-bot-md.git commit sha bb5fa791a640bdbb244f787538e5730519dbea34 into /workspace
+Initialized empty Git repository in /workspace/.git/
+HEAD is now at bb5fa79 fix
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 202B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for quay.io/lyfe00011/md:beta
+#2 DONE 1.1s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/4] FROM quay.io/lyfe00011/md:beta@sha256:34b6af97bec16f911fbc2ef8801ebf29cdac7d87fbb72c6cda92d9cf8fddd8af
+#4 resolve quay.io/lyfe00011/md:beta@sha256:34b6af97bec16f911fbc2ef8801ebf29cdac7d87fbb72c6cda92d9cf8fddd8af done
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 0B / 392.59MB 0.2s
+#4 sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 0B / 30.57MB 0.2s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 25.17MB / 392.59MB 0.6s
+#4 sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 2.10MB / 30.57MB 0.8s
+#4 sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 6.29MB / 30.57MB 0.9s
+#4 sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 9.44MB / 30.57MB 1.1s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 45.09MB / 392.59MB 1.4s
+#4 sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 13.63MB / 30.57MB 1.2s
+#4 sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 16.78MB / 30.57MB 1.4s
+#4 sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 23.07MB / 30.57MB 1.5s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 66.06MB / 392.59MB 1.8s
+#4 sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 30.57MB / 30.57MB 1.7s done
+#4 extracting sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 92.27MB / 392.59MB 2.3s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 115.34MB / 392.59MB 2.9s
+#4 extracting sha256:2b3981cac065674916a0b4e8d1b5d7eb49d9863a79ec47ba37336c70496ac8ab 1.3s done
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 138.41MB / 392.59MB 3.3s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 162.53MB / 392.59MB 3.8s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 188.74MB / 392.59MB 4.2s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 214.96MB / 392.59MB 4.7s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 239.08MB / 392.59MB 5.1s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 268.44MB / 392.59MB 5.6s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 289.41MB / 392.59MB 5.9s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 316.67MB / 392.59MB 6.3s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 343.93MB / 392.59MB 6.8s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 369.10MB / 392.59MB 7.2s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 392.59MB / 392.59MB 7.7s
+#4 sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 392.59MB / 392.59MB 7.8s done
+#4 extracting sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c
+#4 extracting sha256:91a51520f870c3ecad12d996642b440e8a13b0ef77aaa2ed1f012d60b225d83c 12.4s done
+#4 DONE 20.3s
+
+#5 [2/4] RUN git clone https://github.com/lyfe00011/whatsapp-bot-md.git /root/LyFE/
+#5 0.088 Cloning into '/root/LyFE'...
+#5 DONE 3.5s
+
+#6 [3/4] WORKDIR /root/LyFE/
+#6 DONE 0.0s
+
+#7 [4/4] RUN yarn install
+#7 0.567 yarn install v1.22.22
+#7 0.627 [1/4] Resolving packages...
+#7 0.948 [2/4] Fetching packages...
+#7 12.88 warning sharp@0.33.4: The engine "libvips" appears to be invalid.
+#7 12.88 warning @img/sharp-darwin-arm64@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-darwin-arm64@0.33.4: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-darwin-x64@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-darwin-x64@0.33.4: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-darwin-arm64@1.0.2: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-darwin-arm64@1.0.2: The engine "macos" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-darwin-x64@1.0.2: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-darwin-x64@1.0.2: The engine "macos" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linux-arm@1.0.2: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linux-arm@1.0.2: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linux-arm64@1.0.2: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linux-arm64@1.0.2: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linux-s390x@1.0.2: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linux-s390x@1.0.2: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linux-x64@1.0.2: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linux-x64@1.0.2: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linuxmusl-arm64@1.0.2: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linuxmusl-arm64@1.0.2: The engine "musl" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linuxmusl-x64@1.0.2: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-libvips-linuxmusl-x64@1.0.2: The engine "musl" appears to be invalid.
+#7 12.88 warning @img/sharp-linux-arm@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-linux-arm@0.33.4: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-linux-arm64@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-linux-arm64@0.33.4: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-linux-s390x@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-linux-s390x@0.33.4: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-linux-x64@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-linux-x64@0.33.4: The engine "glibc" appears to be invalid.
+#7 12.88 warning @img/sharp-linuxmusl-arm64@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-linuxmusl-arm64@0.33.4: The engine "musl" appears to be invalid.
+#7 12.88 warning @img/sharp-linuxmusl-x64@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-linuxmusl-x64@0.33.4: The engine "musl" appears to be invalid.
+#7 12.88 warning @img/sharp-wasm32@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-win32-ia32@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 warning @img/sharp-win32-x64@0.33.4: The engine "pnpm" appears to be invalid.
+#7 12.88 [3/4] Linking dependencies...
+#7 16.17 [4/4] Building fresh packages...
+#7 16.97 $ node -e "try { require('sharp') } catch (e) { process.exit(1); }" || yarn add --ignore-engines sharp
+#7 17.30 yarn add v1.22.22
+#7 17.39 [1/4] Resolving packages...
+#7 17.72 [2/4] Fetching packages...
+#7 18.07 [3/4] Linking dependencies...
+#7 19.25 [4/4] Building fresh packages...
+#7 19.40 success Saved 1 new dependency.
+#7 19.40 info Direct dependencies
+#7 19.40 └─ sharp@0.33.4
+#7 19.40 info All dependencies
+#7 19.40 └─ sharp@0.33.4
+#7 19.40 $ node -e "try { require('sharp') } catch (e) { process.exit(1); }" || yarn add --ignore-engines sharp
+#7 19.48 Done in 2.19s.
+#7 19.50 Done in 18.95s.
+#7 DONE 20.6s
+
+#8 exporting to image
+#8 exporting layers
+#8 exporting layers 35.5s done
+#8 ...
+
+#9 [auth] k-e34bd2b8-cff0-4146-b852-d2a5f42b3861/b758b546-ce0a-4d42-abd1-de284291b092:pull,push token for registry01.prod.koyeb.com
+#9 DONE 0.0s
+
+#8 exporting to image
+#8 exporting manifest sha256:e3b0069a0e43f8eb9a0940de4b21463865ca4b8bdd2de713e356b08282b1b40a done
+#8 exporting config sha256:54e8dc2bd8a7abe832e948d64f189660332a19fe8b792a8ef8bbed311617b690 done
+#8 pushing layers
